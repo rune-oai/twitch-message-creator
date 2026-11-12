@@ -5,7 +5,7 @@ An offline, ad-free replacement for the single-message generator at
 plus Twitch-style inline message layout and 2x export settings. The bundled
 Inter font keeps previews and downloads consistent without a network request.
 
-**Live demo:** https://mrbeldum.github.io/twitch-message-creator/
+**Live demo:** https://runefoo.github.io/twitch-message-creator/
 
 ## Features
 
